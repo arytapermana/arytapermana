@@ -34,3 +34,29 @@ body {
   color: #6c757d !important;
   border-color: #6c757d !important;
 }
+
+.outer-glow {
+  border-radius: 50%;
+  // box-shadow: 0px 0px 150px 10px rgba(255, 255, 255, 0.178);
+  animation: lightout 5s infinite, scaleout 1s 1;
+}
+
+@keyframes lightout {
+  0% {
+    box-shadow: 0px 0px 150px 10px rgba(255, 255, 255, 0);
+  }
+  50% {
+    box-shadow: 0px 0px 150px 10px rgba(255, 255, 255, 0.26);
+  }
+  100% {
+    box-shadow: 0px 0px 150px 10px rgba(255, 255, 255, 0);
+  }
+}
+@keyframes scaleout {
+  0% {
+    scale: (0);
+  }
+  100% {
+    scale: (1);
+  }
+}
