@@ -13,6 +13,7 @@ Someone who is interested in video editing and design, sometimes web development
 {% include elements/button.html link="https://www.behance.net/aryta" text="Behance" style="primary" size="sm" %}
 {% include elements/button.html link="https://dribbble.com/aryaputra" text="Dribbble" style="primary" size="sm" %}
 {% include elements/button.html link="https://www.linkedin.com/in/arytapermana" text="LinkedIn" style="primary" size="sm" %}
+{% include elements/button.html link="https://www.instagram.com/arylupita/" text="Instagram" style="primary" size="sm" %}
 
 <div class="row">
 {% include about/skills.html title="Video Editor" source=site.data.video-editing-skills %}
