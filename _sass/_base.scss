@@ -1,0 +1,36 @@
+html {
+  padding-left: calc(100vw - 100%);
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-image: radial-gradient(#e4e4e4 1px, transparent 0);
+  background-size: 40px 40px;
+  background-position: -19px -19px;
+}
+
+.badge {
+  font-weight: 500;
+}
+
+.bg-light,
+.badge-light {
+  &,
+  * {
+    color: $text-black !important;
+  }
+}
+
+.bg-dark,
+.badge-dark {
+  &,
+  * {
+    color: $text-white !important;
+  }
+}
+
+.badge-pill {
+  border-radius: 0.2rem !important;
+  color: #6c757d !important;
+  border-color: #6c757d !important;
+}

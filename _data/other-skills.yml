@@ -1,7 +1,7 @@
 - name: HTML/CSS
   percentage: 60
-  color: danger
+  color: web-1
 
 - name: Linux Server
   percentage: 50
-  color:
+  color: secondary

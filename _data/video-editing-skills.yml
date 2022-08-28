@@ -1,7 +1,11 @@
 - name: Adobe Premiere Pro
   percentage: 90
-  color: danger
+  color: adobe-1
 
 - name: Adobe Affter Effects
-  percentage: 80
-  color:
+  percentage: 85
+  color: adobe-1
+
+- name: Davinci Resolve
+  percentage: 30
+  color: secondary

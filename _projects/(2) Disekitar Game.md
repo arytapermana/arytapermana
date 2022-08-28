@@ -1,0 +1,34 @@
+---
+name: Disekitar Game
+tools: [Project, Media, Gaming]
+image: https://ik.imagekit.io/dsg/arytapermana/dipo__3YPRKqIO.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660216071536
+description: Disekitar Game adalah project media game yang memberikan informasi baik berupa video ataupun artikel.
+---
+
+# Disekitar Game
+
+Disekitar Game is a digital media that provides information about the video game industry, the focus of Disekitar Game is to convey specific and in-depth ideas and ideas, but they are easy to understand. Disekitar Game believes video games are a work of art, and the artwork is worthy of appreciation.
+
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/9f23c3680b8bd3b1acd4e17aaad4370c_6lFGs4fBi.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1661681043362" caption="Disekitar Game planned gaming media website" %}
+
+Disekitar Game made up with a few small teams and got angel funding by Ganeshcom Studio, Disekitar Game is still not on productive phase but still "will" be a priority soon. Today Disekitar Game still focusing to Content Creator on YouTube, make an educated gaming info to viewer.
+
+{% include elements/video.html id="Izp5VNnf04Y" %}
+
+Disekitar Game, currently still making content in Indonesian because it is still the initial focus of starting the media, even so it is not impossible Disekitar Game to try to find an international market.
+
+{% capture carousel_images %}
+https://ik.imagekit.io/dsg/arytapermana/cba8af124573459.610751fa4700c_yJ54DSXnM.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1661682277138
+https://ik.imagekit.io/dsg/arytapermana/f0183b124573459.61074d3a55244_aLCo5Tnrs.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1661682248660
+https://ik.imagekit.io/dsg/arytapermana/2f76f2124573459.61074d3a556ab_TmIV4CxWZ.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1661682286325
+https://ik.imagekit.io/dsg/arytapermana/3d7c00124573459.610751f9c21a8_j22z7iTL4.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1661682279049
+https://ik.imagekit.io/dsg/arytapermana/f8228b124573459.610751f9c27e7_76jd2Tq0e.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1661682284058
+https://ik.imagekit.io/dsg/arytapermana/46ccea124573459.610751f9c1d69_Dx9b5BrTv.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1661682280591
+{% endcapture %}
+{% include elements/carousel.html %}
+
+Not only quantity, quality is also an important value that must still be considered, Disekitar Game pays great attention to the results of the published content so that the audience can understand more easily and remain comfortable in watching.
+
+Disekitar Game will still try to provide better game media information, without taking sides and no false information. wait for us.
+
+{% include elements/button.html link="https://www.youtube.com/channel/UCC71ynFPWO11J5X6Or84wsw" text="Learn More" block=true %}
