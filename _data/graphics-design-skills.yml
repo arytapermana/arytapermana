@@ -10,6 +10,10 @@
   percentage: 50
   color: adobe-4
 
-- name: Corel Draw
+- name: Adobe InDesign
   percentage: 30
+  color: adobe-5
+
+- name: Corel Draw
+  percentage: 25
   color: corel

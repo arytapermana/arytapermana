@@ -9,3 +9,7 @@
 - name: Davinci Resolve
   percentage: 30
   color: secondary
+
+- name: Blender
+  percentage: 25
+  color: blender

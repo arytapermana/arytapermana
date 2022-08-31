@@ -9,7 +9,7 @@ description: Disekitar Game is a game media project that provides information in
 
 Disekitar Game is a digital media that provides information about the video game industry, the focus of Disekitar Game is to convey specific and in-depth ideas and ideas, but they are easy to understand. Disekitar Game believes video games are a work of art, and the artwork is worthy of appreciation.
 
-{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/ZbzPwsZK1nH_Y9cCDgEVQMK__zTnX-IMOvIURjGPdLd_jjzFT3bREtwiBCz93YPbC3MRRhIAgIhH4zrgVUOqng_nqNsO6dyA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661907945650" caption="Disekitar Game planned gaming media website" %}
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/ZbzPwsZK1nH_Y9cCDgEVQMK__zTnX-IMOvIURjGPdLd_jjzFT3bREtwiBCz93YPbC3MRRhIAgIhH4zrgVUOqng_nqNsO6dyA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661907945650" caption="Disekitar Game media website" %}
 
 Disekitar Game made up with a few small teams and got angel funding by Ganeshcom Studio, Disekitar Game is still not on productive phase but still "will" be a priority soon. Today Disekitar Game still focusing to Content Creator on YouTube, make an educated gaming info to viewer.
 
