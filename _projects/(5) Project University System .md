@@ -14,8 +14,8 @@ Elystudent is a secret project code, this project is related to the campus syste
 
 The white-clean concept of student page, this is one of student page to manage their seminar registration.
 
-{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/page-2_3NsxkVb0h.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1662774874626" caption="Admin Dashboard Pages" %}
-{% include elements/button.html link="https://dribbble.com/shots/19345578-Admin-Dashboard-School-Project" text="Dribbble" block=true %}
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/page-2_cSGecITwa.png?ik-sdk-version=javascript-1.4.3&updatedAt=1662776796234" caption="Admin Dashboard Pages" %}
+{% include elements/button.html link="https://dribbble.com/shots/19345687-School-Admin-Dashboard" text="Dribbble" block=true %}
 
 This is an admin dashboard for lecturers to see what is coming up for their preferences like student chat integrate into the system, to the event calendar.
 
