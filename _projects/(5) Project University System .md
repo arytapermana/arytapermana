@@ -19,4 +19,9 @@ The white-clean concept of student page, this is one of student page to manage t
 
 This is an admin dashboard for lecturers to see what is coming up for their preferences like student chat integrate into the system, to the event calendar.
 
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/page-2_1_jf_oFeN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1662989111670" caption="Admin Dashboard Pages" %}
+{% include elements/button.html link="https://dribbble.com/shots/19359182-Table-with-multi-select" text="Dribbble" block=true %}
+
+A single sign-on system needs to manage the user as fast as it can, and multi-select is very needed, here is an example of a use case.
+
 {% include elements/highlight.html text="More coming soon." %}
