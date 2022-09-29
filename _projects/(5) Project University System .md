@@ -24,4 +24,9 @@ This is an admin dashboard for lecturers to see what is coming up for their pref
 
 A single sign-on system needs to manage the user as fast as it can, and multi-select is very needed, here is an example of a use case.
 
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/page-2_bJKWwMF2X.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664440334054" caption="Table input with number arranging priority" %}
+{% include elements/button.html link="https://dribbble.com/shots/19470721-Table-input-with-number-arranging-priority" text="Dribbble" block=true %}
+
+Input on a table with arranging the priority of every data input is challenging, this is an example of prioritizing every input using descending number priority.
+
 {% include elements/highlight.html text="More coming soon." %}
