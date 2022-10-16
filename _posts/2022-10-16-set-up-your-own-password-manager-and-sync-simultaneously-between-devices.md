@@ -12,7 +12,7 @@ Every third-party password manager has a different privacy policy and terms of s
 
 Now we will set up a password manager that's will be managed completely by yours, even can be synchronously on every device, and of course, it's more secure!
 
-First, we will use KeePass as a password manager app to easily and securely save and manage the data on a database with AES-256 encryption (one of the most secure encryption algorithms) and its open source! so many types of KeePass apps developed by the community you can use, but I recommend using KeePassXC on Windows and KeePassDX on android, if you're using a mac or ios you can select the recommended app on the official KeePass website here.
+First, we will use KeePass as a password manager app to easily and securely save and manage the data on a database with AES-256 encryption (one of the most secure encryption algorithms) and its open source! so many types of KeePass apps developed by the community you can use, but I recommend using KeePassXC on Windows and KeePassDX on android, if you're using a mac or ios you can select the recommended app on the official KeePass website [here](https://keepass.info/download.html).
 
 Next, we will need a server to sync your password anywhere and everywhere, you can use any VPS you trust like Digital Ocean, Amazon AWS, or Vultr, just chose a cheap one, because it's didn't need huge performance to sync. Resilio Sync is a peer-to-peer file synchronization tool we used to sync passwords from KeePass Database because Resilio Sync can sync files by the internet even local network between devices which is connected.
 
