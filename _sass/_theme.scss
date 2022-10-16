@@ -8,8 +8,13 @@
   }
 }
 
+// #theme-toggler:before {
+//   @include themed(content, "🌙", "☀️");
+// }
+
 #theme-toggler:before {
-  @include themed(content, "🌙", "☀️");
+  font-family: "Font Awesome 5 Free";
+  @include themed(content, "\f186", "\f185");
 }
 
 .navbar-themed {
