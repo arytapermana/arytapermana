@@ -12,8 +12,6 @@ Dimedika is a healthcare system project, that helps doctors and clinics easily m
 {% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/page-2_GuPP07SPw.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665881811283" caption="Dashboard" %}
 {% include elements/button.html link="https://dribbble.com/shots/19626790-Healthcare-system-dashboard" text="Dribbble" block=true %}
 
-Dimedika is a healthcare system for doctors or clinics to manage their patients and medical record, all integrated into one system.
-
 {% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/page-3_xVZzGiF3k.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665881811212" caption="Medical Record List" %}
 
 {% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/page-4_AURVXBm-F.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665881810930" caption="Input Form" %}
