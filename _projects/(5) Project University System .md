@@ -29,4 +29,9 @@ A single sign-on system needs to manage the user as fast as it can, and multi-se
 
 Input on a table with arranging the priority of every data input is challenging, this is an example of prioritizing every input using descending number priority.
 
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/page-2_Ifz7TP394.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665878790804" caption="Table input with number arranging priority" %}
+{% include elements/button.html link="https://dribbble.com/shots/19658286-Microsoft-Fluent-Emoji-of-Survey-Satisfaction" text="Dribbble" block=true %}
+
+Customer satisfaction is essential, and making a survey that is good and interesting can affect the answer of the quantity and quality survey. rating is one of many questions on the survey, how good the subject is.
+
 {% include elements/highlight.html text="More coming soon." %}

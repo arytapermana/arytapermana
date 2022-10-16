@@ -1,6 +1,6 @@
 ---
 name: Disekitar Game
-tools: [Project, Media, Gaming]
+tools: [Content Creator, Media]
 image: https://ik.imagekit.io/dsg/arytapermana/cba8af124573459.610751fa4700c_yJ54DSXnM.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1661682277138
 description: Disekitar Game is a game media project that provides information in the form of videos or articles.
 ---
@@ -30,5 +30,22 @@ https://ik.imagekit.io/dsg/arytapermana/46ccea124573459.610751f9c1d69_Dx9b5BrTv.
 Not only quantity, quality is also an important value that must still be considered, Disekitar Game pays great attention to the results of the published content so that the audience can understand more easily and remain comfortable in watching.
 
 Disekitar Game will still try to provide better game media information, without taking sides and no false information. wait for us.
+
+## Next Web Development
+
+Disekitar Game is not only on content creators, near future Disekitar Game will build a game media web, for more details here is the concept design.
+
+<video width="100%" autoplay loop>
+  <source src="https://ik.imagekit.io/dsg/arytapermana/disekitar-game-web-ui_DPsq4OJ1B.webm?ik-sdk-version=javascript-1.4.3&updatedAt=1661902418744" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+<br />
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/landing-2_-ZsTmcuWt.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661904840267" caption="About First View" %}
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/landing-3_p65uaf6aD.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661904839965" caption="The Content Show Up" %}
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/landing-4_UU4ls6SWf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661907213640" caption="Team Up" %}
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/landing-5_lw-LNEfQV.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661907214053" caption="Office" %}
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/landing-6_LOSoKWdtG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661907213475" caption="Footer" %}
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/mobile_X3qYvHidN.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661907214151" caption="Mobile View Upper" %}
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/mobile-2_uckyW-LDy.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661907214079" caption="Mobile View Other" %}
 
 {% include elements/button.html link="https://www.youtube.com/channel/UCC71ynFPWO11J5X6Or84wsw" text="Learn More" block=true %}

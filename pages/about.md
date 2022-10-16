@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Someone who is interested in video editing and design, sometimes web development is also my free time to do some experiments. I really like ideas and challenges that can advance self-development and even the world.
+Someone interested in video editing and design, and sometimes web development is also my free time to do some experiments. I like ideas and challenges that can advance self-development and even the world.
 
 {% include elements/button.html link="https://www.behance.net/aryta" text="Behance" style="primary" size="sm" %}
 {% include elements/button.html link="https://dribbble.com/aryaputra" text="Dribbble" style="primary" size="sm" %}
