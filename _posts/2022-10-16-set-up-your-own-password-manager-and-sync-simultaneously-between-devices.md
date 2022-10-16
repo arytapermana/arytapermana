@@ -3,6 +3,7 @@ title: Set Up Your Own Password Manager and Sync Simultaneously Between Devices
 tags: [Privacy]
 style: fill
 color: light
+image: https://ik.imagekit.io/dsg/arytapermana/post/regularguy-eth-q7h8LVeUgFU-unsplash_OUIyvNbZF.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1665928312563
 description: Set up your own password manager using KeePass, Resilio Sync, and a VPS server for more security and reliability.
 ---
 
