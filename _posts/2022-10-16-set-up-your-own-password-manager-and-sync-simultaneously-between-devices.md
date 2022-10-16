@@ -23,7 +23,7 @@ Next, we will need a server to sync your password anywhere and everywhere, you c
 1. Download KeePass App to your devices from the [official website](https://keepass.info/download.html), or you can click below. <br />
    [KeePassXC](https://keepassxc.org/)
 2. After you download it creates a database and saves the database on a specific folder, later that folder will be used as a sync folder for Resilio Sync.
-3. Download Resillio Sync from the [official website](https://www.resilio.com/individuals/), I prefer to install it as a windows service but you can choose to install it as an app.
+3. Download Resilio Sync from the [official website](https://www.resilio.com/individuals/), I prefer to install it as a windows service but you can choose to install it as an app.
    {% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/post/Running-Sync-as-a-service-on-Windows_OP6J8KnRQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665915807022" caption="Resilio Sync install as windows services" %}
 4. After installed, open Resilio Sync, if you installed it as windows services open a web browser and type [http://127.0.0.1:8888/](http://127.0.0.1:8888/) on the URL bar, if you install it as an app just open it from the app menu.
 5. Now click the "+" button and select "Standard Folder" to add a sync folder and chose the folder you use to save the KeePass database before. Now your folder is ready to share for sync to another device.
@@ -35,7 +35,7 @@ Next, we will need a server to sync your password anywhere and everywhere, you c
 
 1. Download KeePass App to your devices from the [official website](https://keepass.info/download.html), or you can click below. <br />
    [KeePassDX](https://www.keepassdx.com/)
-2. Download Resillio Sync from the [Play Store](https://play.google.com/store/apps/details?id=com.resilio.sync).
+2. Download Resilio Sync from the [Play Store](https://play.google.com/store/apps/details?id=com.resilio.sync).
 3. Open Resilio Sync and click the "+" button (bottom-right screen) and chose "Enter a key or link", paste your key copied before there, and then click "Add". Select the directory of the sync folder on your phone after that. Give a few seconds to Resilio Sync to sync your file.
    {% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/post/photo_2022-10-16_18-40-37_kAVnjWAkW.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1665917168786" caption="Add folder Resilio Sync" %}
 4. Now open KeePass on your phone and add an existing database, open the folder of Resilio Sync that has been synced before on the directory you chose before.
@@ -56,7 +56,7 @@ The last is to set up a server to easily sync all your KeePass database 24/7 ove
    ```
    sudo chmod -R 700 [your-folder-name]
    ```
-4. Next add this Resillio repositories
+4. Next add this Resilio repositories
    ```
    echo "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free" | sudo tee /etc/apt/sources.list.d/resilio-sync.list
    ```
@@ -69,7 +69,7 @@ The last is to set up a server to easily sync all your KeePass database 24/7 ove
    sudo apt-get update
    sudo apt-get install resilio-sync
    ```
-7. Enable auto-start to Resillio Sync
+7. Enable auto-start to Resilio Sync
    ```
    sudo systemctl enable resilio-sync
    ```
@@ -93,7 +93,7 @@ The last is to set up a server to easily sync all your KeePass database 24/7 ove
    Oct 10 02:22:14 ip-172-26-11-240 systemd[1]: Starting Resilio Sync service...
    Oct 10 02:22:15 ip-172-26-11-240 systemd[1]: Started Resilio Sync service.
    ```
-9. Next, we will edit the Resillio Sync configuration to the public so that later we can open from the web by IP and set up Resilio Sync to sync the KeePass database. <br />
+9. Next, we will edit the Resilio Sync configuration to the public so that later we can open from the web by IP and set up Resilio Sync to sync the KeePass database. <br />
    Open the configuration file of Resilio Sync
    ```
    sudo nano /etc/resilio-sync/config.json
@@ -106,7 +106,7 @@ The last is to set up a server to easily sync all your KeePass database 24/7 ove
     "webui" :
     {
         "force_https": true,
-        "listen" : "0.0.0.0:8888"
+        "listen" : "127.0.0.1:8888"
     }
    }
    ```
@@ -119,7 +119,7 @@ The last is to set up a server to easily sync all your KeePass database 24/7 ove
    "listen" : "0.0.0.0:8888"
    ```
    save after that
-10. Now restart Resillio Sync
+10. Now restart Resilio Sync
     ```
     sudo systemctl restart resilio-sync
     ```
