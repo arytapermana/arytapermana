@@ -1,5 +1,5 @@
 ---
-name: Dimedika
+name: Dimedika V2.0
 tools: [UI/UX]
 image: https://ik.imagekit.io/dsg/arytapermana/page-1_uA8uigA6s.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665881866766
 description: Dimedika is a healthcare system project, that helps doctors and clinics easily manage their reservations, medical record, to billing.
