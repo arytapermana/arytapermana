@@ -2,13 +2,13 @@
   percentage: 90
   color: adobe-2
 
-- name: Adobe XD
-  percentage: 85
-  color: adobe-3
-
 - name: Adobe Illustrator
-  percentage: 50
+  percentage: 30
   color: adobe-4
+
+- name: Adobe Lightroom
+  percentage: 30
+  color: adobe-6
 
 - name: Adobe InDesign
   percentage: 30

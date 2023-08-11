@@ -8,7 +8,9 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Someone interested in video editing and design, and sometimes web development is also my free time to do some experiments. I like ideas and challenges that can advance self-development and even the world.
+If you never know me, I'm just a regular guy like others but interested in internet culture and everything I like. I think you will know more about me below.
+
+so don't be judged, you are free to learn more about me.
 
 {% include elements/button.html link="https://www.behance.net/aryta" text="Behance" style="primary" size="sm" %}
 {% include elements/button.html link="https://dribbble.com/aryaputra" text="Dribbble" style="primary" size="sm" %}
@@ -16,8 +18,9 @@ Someone interested in video editing and design, and sometimes web development is
 {% include elements/button.html link="https://www.instagram.com/arylupita/" text="Instagram" style="primary" size="sm" %}
 
 <div class="row">
-{% include about/skills.html title="Video Editor" source=site.data.video-editing-skills %}
-{% include about/skills.html title="Graphics Design" source=site.data.graphics-design-skills %}
+{% include about/skills.html title="UI/UX" source=site.data.uiux-skills %}
+{% include about/skills.html title="Graphics" source=site.data.graphics-design-skills %}
+{% include about/skills.html title="Video" source=site.data.video-editing-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 

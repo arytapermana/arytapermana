@@ -1,6 +1,6 @@
 ---
 name: Disekitar Game
-tools: [Content Creator, Media]
+tools: [Original]
 image: https://ik.imagekit.io/dsg/arytapermana/cba8af124573459.610751fa4700c_yJ54DSXnM.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1661682277138
 description: Disekitar Game is a game media project that provides information in the form of videos or articles.
 ---
