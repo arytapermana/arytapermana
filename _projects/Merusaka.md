@@ -10,7 +10,7 @@ description: Merusaka is a luxury hotel & resort in Bali, this is a study case o
 Merusaka is a luxury hotel & resort in Bali, this is a study case of creating a new website for Merusaka, some changes later will be made, but this example gives a view of what the new design needed later.
 
 <video width="100%" playsinline autoplay muted loop>
-  <source src="https://ik.imagekit.io/dsg/arytapermana/merusaka-showcase-60-compressed(2)_fmZIvL3ox.webm?updatedAt=1706868361439" type="video/mp4">
+  <source src="https://ik.imagekit.io/dsg/arytapermana/merusaka-showcase-60-compressed_wctH9Lrxq.mp4?updatedAt=1706867573663" type="video/mp4">
   Your browser does not support HTML video.
 </video>
 <br />
