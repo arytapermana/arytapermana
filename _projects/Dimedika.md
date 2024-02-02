@@ -16,4 +16,6 @@ Dimedika is a healthcare system project, that helps doctors and clinics easily m
 
 {% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/page-4_AURVXBm-F.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665881810930" caption="Input Form" %}
 
+{% include elements/figure.html image="https://ik.imagekit.io/dsg/arytapermana/dimedika-landing-page(1)_fyFEyj1TD.jpg?updatedAt=1706858431897" caption="Landing Page" %}
+
 {% include elements/highlight.html text="More coming soon." %}
